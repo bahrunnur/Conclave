@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<messages>
+
+    <message>
+        <event>introduction</event>
+        <messages-list>
+            <msg>Welcome, {name}</msg>
+            <msg>Welcome home, {name}</msg>
+            <msg>Hi, {name}</msg>
+        </messages-list>
+    </message>
+
+    <message>
+        <event>boilerplate</event>
+        <messages-list>
+
+        </messages-list>
+    </message>
+
+    <message>
+        <event>boilerplate</event>
+        <messages-list>
+
+        </messages-list>
+    </message>
+
+    <message>
+        <event>boilerplate</event>
+        <messages-list>
+
+        </messages-list>
+    </message>
+
+    <message>
+        <event>boilerplate</event>
+        <messages-list>
+
+        </messages-list>
+    </message>
+
+    <message>
+        <event>boilerplate</event>
+        <messages-list>
+
+        </messages-list>
+    </message>
+
+    <message>
+        <event>boilerplate</event>
+        <messages-list>
+
+        </messages-list>
+    </message>
+
+    <message>
+        <event>boilerplate</event>
+        <messages-list>
+
+        </messages-list>
+    </message>
+
+</messages>
